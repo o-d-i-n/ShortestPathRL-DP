@@ -6,7 +6,7 @@ This is a simple JAVA program to find the shortest path from a given cell to the
 The program only works for rectangular matrices. 
 
 
-To run : Down load the who project folder at it is. Navigate to root folder in terminal. Run : javac Main.java
+To run : Download the whole project folder as it is. Navigate to root folder via terminal. Run : javac Main.java
 After the program has compiled : Java Main
 
 The program prints the value of valueFunction matrix and policyMatrix after each iteration. At the end, the final result is printed.
